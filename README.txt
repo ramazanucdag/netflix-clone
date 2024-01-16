@@ -1,3 +1,3 @@
 Siteyi ziyaret edebilirsiniz
 
-https://ramazanucdag-netflixclone.netlify.app/
+https://ramazanucdag-netflixwebclone.netlify.app/
